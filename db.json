@@ -1,11 +1,9 @@
 {
-  "posts": [
+  "compta": [
     {
       "id": 1,
-      "title": "hello"
+      "statut": "hello",
+      "commentaire" : "Test commentaire",
     }
   ],
-  "profile": {
-    "name": "typicode"
-  }
 }
