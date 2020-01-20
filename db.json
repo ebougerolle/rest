@@ -5,5 +5,8 @@
       "statut": "hello",
       "commentaire" : "Test commentaire"
     }
-  ]
+  ],
+  "profile": {
+    "name": "typicode"
+  }
 }
